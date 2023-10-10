@@ -1,0 +1,8 @@
+version: '3'
+services:
+  hobby-connect-web:
+    image: hobby-connect-starting
+    ports:
+      - 18100:80
+
+
